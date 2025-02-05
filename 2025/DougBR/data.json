@@ -1,0 +1,31 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "devsnasnuvens",
+      "reniciuspagotto"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "DOUG BR (DevOps User Group Brazil)",
+    "Country": "Brazil",
+    "Url": "https://www.linkedin.com/company/dougbrazil",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "DougBR.png"
+    },
+    "Locations": [
+      {
+        "Description": "LHC - Laboratório Hacker de Campinas",
+        "Name": "LHC - Laboratório Hacker de Campinas",
+        "Address": "R. Araribóia, 121 - Pte. Preta, Campinas - SP, 13041-350",
+        "Description_Lat_Lon": "Campinas / São Paulo / Brazil",
+        "Latitude": -22.91766961384076,
+        "Longitude": -47.051530208723634
+      }
+    ]
+  }
+}
