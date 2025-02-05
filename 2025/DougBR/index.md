@@ -1,7 +1,16 @@
-# Community title
+# DOUG BR - DevOps User Group Brazil
 
-![Community title](template.png)
+![DOUG BR - DevOps User Group Brazil](DougBR.png)
 
-We're excited to be hosting an event at [Community title](https://globalazure.net/this-is-just-a-sample-link/)!
+We're excited to be hosting an event at [DOUG BR - DevOps User Group Brazil](https://globalazure.net/)!
 
-Here you put any markdown content which describes your event location, and what you will be doing at your event. Get creative and tell your own story, list your agenda, speakers, and anything else that seems relevant to you! Please feel free to be inspired by all the community submissions at [GlobalAzure.net/communities](http://globalazure.net/communities)
+## Data - 10 de maio de 2025 (sábado)
+
+## Local
+- LHC - Laboratório Hacker de Campinas - Brasil
+
+## Agenda
+- A definir
+
+## Call for Papers
+- A definir
